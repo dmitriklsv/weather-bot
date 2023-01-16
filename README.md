@@ -1,12 +1,10 @@
-# Мой бот для всяких штук
+# My bot for stuff
 
-Мой телеграм бот которые делает всякие полезные вещи
+My telegram bot that does all sorts of useful things
 
-Вот ссылка: https://t.me/very_useful_levap_bot
+## What can he do
 
-## Что он умеет
-
-1. Показывать погоду
-2. Создавать qr из ссылки
-3. Что нибудь еще в будущем
+1. Show weather
+2. Create qr from link
+3. Something else in the future
 
